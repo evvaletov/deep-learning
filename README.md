@@ -1,5 +1,5 @@
 
-# My Completed Projects in Udacity's Deep Learning Nanodegree
+# My Completed Projects from Udacity's Deep Learning Nanodegree
 Author: Eremey Valetov  
 Course completion date: 18-May-2018  
 Email: valetove@msu.edu  
