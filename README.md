@@ -1,7 +1,7 @@
 
 # My Completed Projects in Udacity's Deep Learning Nanodegree
-Author: Eremey Valetov
-Course completion date: 18-May-2018
+Author: Eremey Valetov  
+Course completion date: 18-May-2018  
 Email: valetove@msu.edu  
 
 This repository contains the projects I have completed in Udacity's Deep Learning Nanogree in Spring 2018.
